@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "progrramacion_329f718c"
+        },
+        {
+            "type": "java",
+            "name": "RegistroEmpleado",
+            "request": "launch",
+            "mainClass": "RegistroEmpleado",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "persona",
+            "request": "launch",
+            "mainClass": "persona",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "lol",
+            "request": "launch",
+            "mainClass": "lol",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "ListaNombres",
+            "request": "launch",
+            "mainClass": "ListaNombres",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "buscarunnumero",
+            "request": "launch",
+            "mainClass": "buscarunnumero",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "RegistroTemperaturas",
+            "request": "launch",
+            "mainClass": "RegistroTemperaturas",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "integrantes",
+            "request": "launch",
+            "mainClass": "integrantes",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "Filtrarcalificaciones",
+            "request": "launch",
+            "mainClass": "Filtrarcalificaciones",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "FiltrarCalificacioness",
+            "request": "launch",
+            "mainClass": "FiltrarCalificacioness",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "RepetirHastaVacia",
+            "request": "launch",
+            "mainClass": "RepetirHastaVacia",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "EjemploLista",
+            "request": "launch",
+            "mainClass": "EjemploLista",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "Agendadetarea",
+            "request": "launch",
+            "mainClass": "Agendadetarea",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "Agendadetareas",
+            "request": "launch",
+            "mainClass": "Agendadetareas",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "ListaInvitados",
+            "request": "launch",
+            "mainClass": "ListaInvitados",
+            "projectName": "progrramacion_cafff976"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
