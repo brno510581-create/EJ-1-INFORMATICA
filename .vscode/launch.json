@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "persona",
+            "request": "launch",
+            "mainClass": "persona",
+            "projectName": "EJ.1°.MA_7e982def"
+        },
+        {
+            "type": "java",
+            "name": "Filtrarcalificaciones",
+            "request": "launch",
+            "mainClass": "Filtrarcalificaciones",
+            "projectName": "EJ.1°.MA_7e982def"
+        },
+        {
+            "type": "java",
+            "name": "integrantes",
+            "request": "launch",
+            "mainClass": "integrantes",
+            "projectName": "EJ.1°.MA_7e982def"
+        },
+        {
+            "type": "java",
+            "name": "ListaInvitados",
+            "request": "launch",
+            "mainClass": "ListaInvitados",
+            "projectName": "EJ.1°.MA_7e982def"
+        },
+        {
+            "type": "java",
+            "name": "buscarunnumero",
+            "request": "launch",
+            "mainClass": "buscarunnumero",
+            "projectName": "EJ.1°.MA_7e982def"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
