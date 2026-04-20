@@ -1,6 +1,4 @@
 
-
-
 public class persona {
 
     // Atributos
